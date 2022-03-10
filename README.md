@@ -1,5 +1,4 @@
- 
-
+# SCP173's Daily Clear
 
 > Open this page at [https://harui2019.github.io/scp-173_daily_clear/](https://harui2019.github.io/scp-173_daily_clear/)
 
