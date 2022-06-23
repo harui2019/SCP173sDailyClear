@@ -1,5 +1,6 @@
 {
     "name": "SCP-173's_daily_clear_v1.0_bet",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
