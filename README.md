@@ -1,6 +1,6 @@
 # SCP173's Daily Clear
 
-> Open this page at [https://harui2019.github.io/scp-173_daily_clear/](https://harui2019.github.io/scp-173_daily_clear/)
+> Open this page at [https://harui2019.github.io/SCP173sDailyClear/](https://harui2019.github.io/SCP173sDailyClear/)
 
 ## Use as Extension
 
@@ -9,7 +9,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/harui2019/scp-173_daily_clear** and import
+* search for **[https://harui2019.github.io/SCP173sDailyClear/](https://harui2019.github.io/SCP173sDailyClear/)** and import
 
 ## Edit this project ![Build status badge](https://github.com/harui2019/scp-173_daily_clear/workflows/MakeCode/badge.svg)
 
@@ -17,7 +17,7 @@ To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/harui2019/scp-173_daily_clear** and click import
+* paste **[https://harui2019.github.io/SCP173sDailyClear/](https://harui2019.github.io/SCP173sDailyClear/)** and click import
 
 ## Blocks preview
 
