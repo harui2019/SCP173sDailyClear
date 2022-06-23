@@ -18,13 +18,6 @@ function kill_chosen () {
         }
     }
 }
-controller.B.onEvent(ControllerButtonEvent.Pressed, function () {
-    if (_switch == 0 && D17302_alive == 1) {
-        toD17302()
-    } else if (_switch == 1 && D17301_alive == 1) {
-        toD17301()
-    }
-})
 function D17302_kill () {
     SCP173.setPosition(D17302.x, D17302.y)
     D17302_alive = 0
@@ -220,6 +213,13 @@ function move_method (mySprite: Sprite) {
         mySprite.setVelocity(0, 0)
     }
 }
+controller.B.onEvent(ControllerButtonEvent.Pressed, function () {
+    if (_switch == 0 && D17302_alive == 1) {
+        toD17302()
+    } else if (_switch == 1 && D17301_alive == 1) {
+        toD17301()
+    }
+})
 function poop_generate () {
     poop_num = 0
     for (let index = 0; index < randint(2, 5); index++) {
