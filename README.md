@@ -2,6 +2,9 @@
 
 > Open this page at [https://harui2019.github.io/SCP173sDailyClear/](https://harui2019.github.io/SCP173sDailyClear/)
 
+This is a meowbit project I made during summer vacation in 2020.
+The orginal source on MakeCode Arcade has been lost.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
